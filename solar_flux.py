@@ -10,6 +10,7 @@ GMT=nombre d'heure de décalage avec le méridien de greenwich (fixé à 1)
 rho=albédo de surface (fixé à 0.2)
 beta=inclinaison de la surface (ficcée à 90°)
 gamma=azimuth de la surface(en degré,sud=0°est=-90°ouest=90°nord=-180 ou +180°
+Rendre la fonction plus générale
 """
 import numpy as np
 import transformer as tr
