@@ -111,3 +111,4 @@ def solar_flux(city,longitude, latitude, I_dif, I_dir, delta):
     
     return I_dir_s, I_dir_n, I_dir_e, I_dir_o, I_ref, I_dif_surf, I_moy, I_dir, I_dif
        
+Print 'test1'
